@@ -1,0 +1,4 @@
+C:\Users\Vicente Perez\Source\Repos\ProyectoCatedra\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Vicente Perez\Source\Repos\ProyectoCatedra\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Vicente Perez\Source\Repos\ProyectoCatedra\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Vicente Perez\Source\Repos\ProyectoCatedra\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
